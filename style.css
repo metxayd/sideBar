@@ -273,7 +273,7 @@ html {
 
 .homepage {
     width: 100vw;
-    height: 100vh;
+    height: auto;
     padding: 40px 60px 40px 120px;
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -389,56 +389,3 @@ html {
 .image-text h2{
     padding-top: 75px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
